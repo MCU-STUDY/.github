@@ -1,4 +1,5 @@
-## Hi there 👋
+## 취업스터디 organization입니다 👋
+찬미 의성 민재
 
 <!--
 
